@@ -1,0 +1,6 @@
+1.将ch_cpuinfo及LANG.txt上传到黑群晖的共享文件夹如： /volume1/web/下。
+2.使用putty以root权限登录黑群，执行以下命令：
+cd /volume1/web
+./ch_cpuinfo
+选择1.首次运行，在选择Y
+3.刷新或重新登录DSM后生效。

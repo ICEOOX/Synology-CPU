@@ -1,0 +1,36 @@
+## Do not Change variable!!!
+##
+## If you change to Y value of CUSTLANG,
+## You can do change messages contents to your language.
+##
+## Change the value of MSGECHO to use
+##
+CUSTLANG=Y
+##
+##
+### Messages Contents
+MSGECHO01="警告！将在没有备份的情况下直接修改原文件。"
+MSGECHO02="还原到初始并继续。"
+MSGECHO03="删除本地的上一版本备份文件。"
+MSGECHO04="自动执行（y），如果你选择否（n），则手动执行（取消：q）[y/n]："
+MSGECHO05="继续原始文件备份和准备。如果选择n，则直接处理原始文件。 (取消 : q) [y/n] :"
+MSGECHO06="CPU 名称, 核心数。如果你选择否， 则还原原始文件 (取消 : q) [y/n] :"
+MSGECHO07="已经安装运行了一个相同的版本。 请重新运行本程序后选择 2) 重装。"
+MSGECHO08="安装更高版本时不要还原到原文件。继续..."
+MSGECHO09="你已经验证并安装了以前的版本。继续..."
+MSGECHO10="程序遇到问题并退出。 请检查错误后重试。"
+MSGECHO11="未运行过此版本。 请返回并选择首次运行。"
+MSGECHO12="本地目标文件未退出。请检查后重试。"
+MSGECHO13="操作完成!! 大概需要1-2分钟后生效， \n(请按F5手动刷新或注销DSM页面再登陆后检查信息中心.)"
+MSGECHO14="只能输入 y / n / q 。 请重新输入。"
+MSGECHO15="DSM CPU 信息更改工具 ver."
+MSGECHO16="made by"
+MSGECHO17="你的DSM版本是"
+MSGECHO18="继续"
+MSGECHO19="不支持低于5.x版本的DSM。结束进程。"
+MSGECHO20="1) 首次运行  2) 重装  3) 还原 - 请选择数字:"
+MSGECHO21="确定重装吗? 程序将还原备份的原始文件后再次执行。(取消 : q) [y/n] :"
+MSGECHO22="不要继续重装."
+MSGECHO23="是否要使用原始备份文件进行还原? (取消 : q) [y/n] :"
+MSGECHO24="未执行还原。"
+MSGECHO25="请选择正确的数字。"
